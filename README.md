@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, my name is Paulo Mello<br>👀 I'm excited for solve problems through technology.<br>🌱 I strongly believe in continuous learning and knowledge sharing.<br>📫 Contact: ckw.paulo@gmail.com
+👋 Hi, my name is Paulo Mello<br>👀 Trabalho como Analista de Infraestrutura Linux.<br>🌱 Estou estudando para DevOps e Dev Python.<br>📫 Contact: ckw.paulo@gmail.com
 
 
 ## 🌐 Socials:
